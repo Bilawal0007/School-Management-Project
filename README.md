@@ -7,7 +7,7 @@ you to assign students to classrooms and teachers to classrooms.
 
 ## Requirements
 
-- Java 17
+- Java 21
 - Maven
 - PostgreSQL
 - Docker
